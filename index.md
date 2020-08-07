@@ -6,7 +6,7 @@ Feel free to give 'em a try.
 ### Kobolde der Macht
 
 ```
-Coming soon!
+Experimental state!
 ```
 --> [Play](https://xenomojin.github.io/DevProjects/Kobolde%20der%20Macht) online
 
