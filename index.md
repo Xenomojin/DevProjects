@@ -8,7 +8,7 @@ Feel free to give 'em a try.
 ```
 Coming soon!
 ```
---> [Play](https://xenomojin.github.io/DevProjects/Kobolde%20der&20Macht) online
+--> [Play](https://xenomojin.github.io/DevProjects/Kobolde%20der%20Macht) online
 
 ### Dungelion
 
