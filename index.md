@@ -9,12 +9,12 @@ Feel free to give 'em a try.
 
 ### Lagerbestand Verwalten
 
-Description:
+Description:\
     Dies ist ein online First Person Shooter auf einem Tisch im 1v1
     (Um die Anwendung zu starten muss die ZIP-datei zunächst entpackt werden.
     Anschließend kann die dort enthaltene EXE-datei mit dem Namen "Tabletop FPS Online" gestartet werden)
 
-Downloads:
+Downloads:\
 --> [Download](https://github.com/Xenomojin/DevProjects/raw/master/Lagerbestand%20Verwalten.apk) for Android
 
 ### Ein Seestern will hoch hinaus
