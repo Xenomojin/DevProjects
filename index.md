@@ -21,9 +21,9 @@ Feel free to give 'em a try.
 #### Description:
 ```
     Dieses Spiel ist am besten mit Freunden um zusammen Bilder zu erraten.
-	(Um die Anwendung zu starten muss die ZIP-datei zunächst entpackt werden.
-	Anschließend kann die dort enthaltene x86_64-datei mit dem Namen "Wat is denn dat - Online" gestartet werden.
-	Möglicherweise muss die Anwendung noch als 'Ausführbar' markiert werden)
+    (Um die Anwendung zu starten muss die ZIP-datei zunächst entpackt werden.
+    Anschließend kann die dort enthaltene x86_64-datei mit dem Namen "Wat is denn dat - Online" gestartet werden.
+    Möglicherweise muss die Anwendung noch als 'Ausführbar' markiert werden)
 ```
 #### Downloads:
 --> [Download](https://github.com/Xenomojin/DevProjects/raw/master/EinSeesternWillHochHinaus.apk) for Android
