@@ -1,6 +1,7 @@
 ## My Applications
 
 I use this website to save and share all of my (at least partially) finished dev projects.
+Feel free to give 'em a try.
 
 ### Markdown
 
@@ -25,6 +26,9 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Here should be a picture:
+![Katzenbild](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpetraott.com%2Fwp-content%2Fuploads%2F2018%2F01%2Flaecheln-800x533.png&f=1&nofb=1)
+Is it there?
 
 ### Jekyll Themes
 
