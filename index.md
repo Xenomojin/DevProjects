@@ -42,9 +42,9 @@ Anschließend kann die dort enthaltene EXE-datei mit dem Namen "Tabletop FPS Onl
 ### Wat is denn dat - Online
 
 ```
-Dieses Spiel ist am besten mit Freunden um zusammen Bilder zu erraten.<br>
-(Um die Anwendung zu starten muss die ZIP-datei zunächst entpackt werden.<br>
-Anschließend kann die dort enthaltene x86_64-datei mit dem Namen "Wat is denn dat - Online" gestartet werden.<br>
+Dieses Spiel ist am besten mit Freunden um zusammen Bilder zu erraten.
+(Um die Anwendung zu starten muss die ZIP-datei zunächst entpackt werden.
+Anschließend kann die dort enthaltene x86_64-datei mit dem Namen "Wat is denn dat - Online" gestartet werden.
 Möglicherweise muss die Anwendung noch als 'Ausführbar' markiert werden)
 ```
 --> [Download](https://github.com/Xenomojin/DevProjects/raw/master/Wat-is-denn-dat-Online_Windows.zip) for Windows\
