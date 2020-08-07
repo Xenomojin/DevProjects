@@ -3,6 +3,13 @@
 I use this website to save and share all of my (at least partially) finished dev projects.
 Feel free to give 'em a try.
 
+### Kobolde der Macht
+
+```
+Coming soon!
+```
+--> [Play](https://xenomojin.github.io/DevProjects/Kobolde%20der&20Macht) online
+
 ### Dungelion
 
 ```
