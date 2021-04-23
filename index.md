@@ -53,4 +53,4 @@ Möglicherweise muss die Anwendung noch als 'Ausführbar' markiert werden)
 
 ## Info
 
-For some games, I'm using the Unity game engine and the Photon network engine for most of my projects. So have a look at [Unity's Privacy Policy](https://unity3d.com/de/legal/privacy-policy) as well as to [ExitGames' Privacy Policy](https://dashboard.photonengine.com/en-US/account/privacyandcookiepolicy) before running one of my Unity/Photon applications.
+For some projects, I'm using the Unity game engine and the Photon network engine. So have a look at [Unity's Privacy Policy](https://unity3d.com/de/legal/privacy-policy) as well as at [ExitGames' Privacy Policy](https://dashboard.photonengine.com/en-US/account/privacyandcookiepolicy) before running one of my Unity/Photon applications.
