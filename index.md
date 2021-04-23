@@ -3,13 +3,6 @@
 I use this website to save and share all of my (at least partially) finished dev projects.
 Feel free to give 'em a try.
 
-### Kobolde der Macht
-
-```
-Experimental state!
-```
---> [Play](https://xenomojin.github.io/DevProjects/Kobolde%20der%20Macht) online
-
 ### Dungelion
 
 ```
@@ -60,4 +53,4 @@ Möglicherweise muss die Anwendung noch als 'Ausführbar' markiert werden)
 
 ## Info
 
-I am using the Unity game engine and the Photon network engine for most of my projects. By actively using my applications you aggree to [Unity's Privacy Policy](https://unity3d.com/de/legal/privacy-policy) as well as to [ExitGames' Privacy Policy](https://dashboard.photonengine.com/en-US/account/privacyandcookiepolicy).
+For some games, I'm using the Unity game engine and the Photon network engine for most of my projects. So have a look at [Unity's Privacy Policy](https://unity3d.com/de/legal/privacy-policy) as well as to [ExitGames' Privacy Policy](https://dashboard.photonengine.com/en-US/account/privacyandcookiepolicy) before running one of my Unity/Photon applications.
